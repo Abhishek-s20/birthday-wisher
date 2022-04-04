@@ -1,6 +1,6 @@
 export default {
-  wisher: 'Alisha',
-  wishee: 'Matrix',
+  wisher: 'Matrix',
+  wishee: 'Alisha',
   color: '#2977f5',
   textColor: '#E8EAEC',
 }
